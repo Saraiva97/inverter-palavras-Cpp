@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<img src="https://github.com/Saraiva97/inverter-palavras-Cpp/assets/93497276/da111914-2d29-474b-84de-4c84cc893e58"/>
+<img src="https://github.com/Saraiva97/inverter-palavras-Cpp/assets/93497276/da111914-2d29-474b-84de-4c84cc893e58" style="width: 200px"/>
 </div>
 
 
